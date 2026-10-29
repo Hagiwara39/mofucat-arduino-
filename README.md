@@ -5,7 +5,7 @@
 > **🚧 制作途中のプロジェクトです。**
 > 電子工作のコア部分(触れたら鳴る)は動作しています。筐体(猫の形)の設計・3Dプリント・外装はこれから取り組みます。内容は随時更新します
 
-[![もふもふ猫プロトタイプ](https://youtube.com/shorts/y5mujTZHKJo?si=9VMgidgNuMvuZutu)
+[もふもふ猫プロトタイプ](https://youtube.com/shorts/y5mujTZHKJo?si=9VMgidgNuMvuZutu)
 
 ---
 
